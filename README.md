@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,42:172554,74:312e81,100:6d28d9&height=215&section=header&text=Anchuga%20Selvaratnam&fontSize=43&fontColor=f8fafc&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Software%20Engineering%20Undergraduate%20%7C%20UI%2FUX%20Designer&descAlignY=59&descSize=15" alt="Anchuga Selvaratnam - Junior Web Developer, Software Engineering Undergraduate and UI/UX Designer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,42:172554,74:312e81,100:6d28d9&height=215&section=header&text=Anchuga%20Selvaratnam&fontSize=43&fontColor=f8fafc&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Computer%20Science%20and%20Software%20Engineering%20Undergraduate%20%7C%20UI%2FUX%20Designer&descAlignY=59&descSize=13" alt="Anchuga Selvaratnam - Junior Web Developer, Computer Science and Software Engineering Undergraduate, and UI/UX Designer" />
 
 ### Building practical products with thoughtful design and dependable code
 
 <p>
-  I am a Software Engineering undergraduate and Junior Web Developer focused on
+  I am a Computer Science and Software Engineering undergraduate and Junior Web Developer focused on
   full-stack development, user-friendly interfaces and real-world digital solutions.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&height=44&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Undergraduate;Building+Practical+Digital+Solutions" alt="Animated text highlighting Anchuga's professional focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=720&height=44&lines=Full+Stack+Developer;UI%2FUX+Designer;Computer+Science+and+Software+Engineering+Undergraduate;Building+Practical+Digital+Solutions" alt="Animated text highlighting Anchuga's professional focus" />
 
 <p>
   <a href="https://anchuselva.github.io/Anchuga/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Anchuga's portfolio" /></a>
@@ -46,7 +46,7 @@
 
 I enjoy designing and developing practical digital products that are useful, clear and easy to navigate. My interests connect software engineering with product design, allowing me to consider both how a system works and how people experience it.
 
-- Software Engineering undergraduate
+- Computer Science and Software Engineering undergraduate
 - Junior Web Developer based in **Vavuniya, Sri Lanka**
 - Specializing in **full-stack development** and **UI/UX design**
 - Interested in databases, cloud deployment and AI-assisted development
