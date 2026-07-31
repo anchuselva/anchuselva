@@ -1,16 +1,146 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anchuselva/anchuselva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anchuga Selvaratnam — Junior Web Developer, Software Engineering Undergraduate and UI/UX Designer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:6d28d9&height=240&section=header&text=Anchuga%20Selvaratnam&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Software%20Engineering%20Undergraduate%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=15)
 
-Here are some ideas to get you started:
+<p>
+  I design and develop practical, user-friendly digital solutions with a focus on<br />
+  full-stack development, thoughtful interfaces and dependable user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&height=42&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Undergraduate;Building+Practical+Digital+Solutions" alt="Typing animation highlighting Anchuga's professional focus" />
+</a>
+
+<p>
+  <a href="https://anchuselva.github.io/Anchuga/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Anchuga's portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anchuga-selvaratnam-321b4033a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Anchuga on LinkedIn" /></a>
+  <a href="mailto:anchuselva22@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anchuga" /></a>
+  <a href="https://github.com/anchuselva"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Anchuga's GitHub profile" /></a>
+</p>
+
+</div>
+
+---
+
+## About me
+
+- Based in **Vavuniya, Sri Lanka**
+- Junior Web Developer and Software Engineering undergraduate
+- Focused on **full-stack development** and **UI/UX design**
+- Learning modern web technologies, cloud platforms and AI-assisted development
+- Interested in building practical solutions for real-world problems
+
+## Current focus
+
+| Area | What I am working toward |
+|:--|:--|
+| Web engineering | Building responsive and accessible web applications |
+| Backend | Improving server-side and database development |
+| Delivery | Learning cloud deployment and CI/CD workflows |
+| Product design | Strengthening UI/UX research and interface design skills |
+| Applied AI | Exploring responsible AI-assisted software development |
+
+---
+
+## Technologies
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python and Java" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS and Bootstrap" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="Node.js, Express.js, FastAPI and PHP" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
+**Tools and platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,docker,azure,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, WordPress, Docker, Microsoft Azure and Postman" />
+
+</div>
+
+---
+
+## Featured projects
+
+| Project | Overview | Technology | Links |
+|:--|:--|:--|:--|
+| **Project and Team Task Management Platform** | Role-based platform for managing projects, project leaders, team members, tasks, updates and collaboration. | Next.js · Node.js · PostgreSQL · REST API · RBAC | **[ADD REPOSITORY URL]** |
+| **SaveLKR Budgeting Application** | Personal budgeting solution with category budgets, expense tracking, alerts, reports and intelligent financial features. | React · Node.js · Database · AI-assisted features | **[ADD REPOSITORY URL]** |
+| **Photography Studio Management System** | Full-stack solution for managing studio clients, profiles, bookings, histories and administrative operations. | React · Node.js · Express · MySQL | **[ADD REPOSITORY URL]** |
+| **Personal Portfolio** | Responsive personal portfolio presenting my skills, experience, services and projects. | Responsive web design · UI/UX | [Live site](https://anchuselva.github.io/Anchuga/) · **[ADD REPOSITORY URL]** |
+
+---
+
+## GitHub insights
+
+<!-- These cards are generated by third-party open-source services. If one is temporarily unavailable, the linked GitHub profile remains the source of truth. -->
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anchuselva&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=cbd5e1&ring_color=6366f1&rank_icon=github" alt="Anchuga's GitHub overview statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchuselva&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=cbd5e1" alt="Most-used languages across Anchuga's public GitHub repositories" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=anchuselva&theme=transparent&hide_border=true&background=0D1117&stroke=334155&ring=6366F1&fire=38BDF8&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Anchuga's GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=anchuselva&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies earned through public activity" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anchuselva&bg_color=0d1117&color=818cf8&line=38bdf8&point=f8fafc&area=true&area_color=312e81&hide_border=true" alt="Anchuga's recent GitHub contribution activity graph" />
+</div>
+
+---
+
+## Contribution snake
+
+<!-- Generated daily by .github/workflows/snake.yml and published to the output branch. The image becomes available after the workflow's first successful run. -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anchuselva/anchuselva/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anchuselva/anchuselva/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/anchuselva/anchuselva/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Anchuga's GitHub contribution grid" />
+  </picture>
+</div>
+
+---
+
+## Achievements and highlights
+
+- Junior Web Developer at **Altitude1 under PrimeOne Global**
+- UI/UX and frontend development experience
+- Experience building full-stack academic and personal projects
+- Interested in research, innovation and real-world computing solutions
+
+<br />
+
+<div align="center">
+
+### “Designing meaningful experiences and transforming ideas into working solutions.”
+
+<img src="https://komarev.com/ghpvc/?username=anchuselva&label=Profile%20views&color=4f46e5&style=flat" alt="Anchuga's profile view count" />
+
+<br />
+
+![Dark navy and violet footer](https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:1e3a8a,100:020617&height=110&section=footer)
+
+</div>
