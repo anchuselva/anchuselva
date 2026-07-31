@@ -1,135 +1,138 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:172554,75:312e81,100:6d28d9&height=220&section=header&text=ANCHUGA%20SELVARATNAM&fontSize=42&fontColor=f8fafc&fontAlignY=39&desc=Junior%20Web%20Developer%20%7C%20Software%20Engineering%20Undergraduate%20%7C%20UI%2FUX%20Designer&descAlignY=61&descSize=15" alt="Anchuga Selvaratnam - Junior Web Developer, Software Engineering Undergraduate and UI/UX Designer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:172554,75:312e81,100:6d28d9&height=195&section=header&text=ANCHUGA%20SELVARATNAM&fontSize=40&fontColor=f8fafc&fontAlignY=40&desc=Junior%20Web%20Developer%20%7C%20Software%20Engineering%20Undergraduate%20%7C%20UI%2FUX%20Designer&descAlignY=64&descSize=14" alt="Anchuga Selvaratnam - Junior Web Developer, Software Engineering Undergraduate and UI/UX Designer" />
 
-<br />
-
-<samp>FULL-STACK DEVELOPMENT &nbsp;/&nbsp; PRODUCT INTERFACES &nbsp;/&nbsp; PRACTICAL SYSTEMS</samp>
-
-<br /><br />
-
-I turn ideas into thoughtful digital products by combining structured development,<br />
-usable interfaces and a practical understanding of real-world problems.
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Undergraduate;Building+Practical+Digital+Solutions" alt="Animated text describing Anchuga's professional focus" />
-
-<p>
-  <a href="https://anchuselva.github.io/Anchuga/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Anchuga's portfolio" /></a>
-  <a href="https://www.linkedin.com/in/anchuga-selvaratnam-321b4033a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Anchuga on LinkedIn" /></a>
-  <a href="mailto:anchuselva22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anchuga" /></a>
-  <a href="https://github.com/anchuselva"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Anchuga's GitHub profile" /></a>
-</p>
-
-<sub>Vavuniya, Sri Lanka &nbsp; | &nbsp; Software Engineering Undergraduate &nbsp; | &nbsp; Junior Web Developer</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&height=48&lines=%24+Full+Stack+Developer;%24+UI%2FUX+Designer;%24+Software+Engineering+Undergraduate;%24+Building+Practical+Digital+Solutions" alt="Terminal-style typing animation describing Anchuga's professional focus" />
 
 </div>
 
-<br />
+```console
+anchuga@github:~$ profile --summary
 
-## 01 / About me
-
-> I am a Software Engineering undergraduate and Junior Web Developer focused on creating clear, useful and user-friendly digital products. My interests span full-stack engineering, UI/UX design, databases, cloud delivery and responsible AI-assisted development.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I bring</h3>
-      <ul>
-        <li>Full-stack academic and personal project experience</li>
-        <li>UI/UX and frontend development experience</li>
-        <li>A practical, user-centred approach to problem solving</li>
-        <li>Interest in research and real-world computing solutions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Where I am growing</h3>
-      <ul>
-        <li>Responsive and accessible web applications</li>
-        <li>Backend architecture and database development</li>
-        <li>Cloud deployment and CI/CD workflows</li>
-        <li>Responsible AI-assisted software development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 02 / Technologies
+NAME        Anchuga Selvaratnam
+ROLE        Junior Web Developer
+EDUCATION   Software Engineering Undergraduate
+SPECIALTY   Full-Stack Development / UI/UX Design
+LOCATION    Vavuniya, Sri Lanka
+MISSION     Build practical, user-friendly digital solutions
+```
 
 <div align="center">
-
-| Discipline | Technologies |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python and Java" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS and Bootstrap" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="Node.js, Express.js, FastAPI and PHP" /> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" /> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp; <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" /> |
-| **Tools and cloud** | <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,docker,azure,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, WordPress, Docker, Microsoft Azure and Postman" /> |
-
+  <a href="https://anchuselva.github.io/Anchuga/"><img src="https://img.shields.io/badge/%3E_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Anchuga's portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anchuga-selvaratnam-321b4033a/"><img src="https://img.shields.io/badge/%3E_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Anchuga on LinkedIn" /></a>
+  <a href="mailto:anchuselva22@gmail.com"><img src="https://img.shields.io/badge/%3E_EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anchuga" /></a>
+  <a href="https://github.com/anchuselva"><img src="https://img.shields.io/badge/%3E_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Anchuga's GitHub profile" /></a>
 </div>
 
 <br />
 
-## 03 / Featured projects
+## `$ whoami`
 
-### 01. Project and Team Task Management Platform
+I am a Software Engineering undergraduate and Junior Web Developer who enjoys transforming ideas into clear, useful digital products. I combine full-stack development with UI/UX thinking to build solutions that are practical for users and maintainable for developers.
 
-A role-based workspace for coordinating projects, project leaders, team members, tasks, progress updates and team collaboration.
+```yaml
+professional_interests:
+  - full-stack web development
+  - user interface and experience design
+  - databases and backend systems
+  - cloud deployment and CI/CD
+  - responsible AI-assisted development
 
-`Next.js` `Node.js` `PostgreSQL` `REST API` `RBAC`
-
-**Repository:** **[ADD REPOSITORY URL]**
-
----
-
-### 02. SaveLKR Budgeting Application
-
-A personal budgeting solution built around category budgets, expense tracking, alerts, reporting and intelligent financial features.
-
-`React` `Node.js` `Database` `AI-assisted features`
-
-**Repository:** **[ADD REPOSITORY URL]**
-
----
-
-### 03. Photography Studio Management System
-
-A full-stack administrative system for managing studio clients, profiles, bookings, histories and day-to-day operations.
-
-`React` `Node.js` `Express.js` `MySQL`
-
-**Repository:** **[ADD REPOSITORY URL]**
-
----
-
-### 04. Personal Portfolio
-
-A responsive portfolio presenting my background, skills, services and selected development work through a focused user experience.
-
-`Responsive Web Design` `UI/UX` `Frontend Development`
-
-**Explore:** [Live portfolio](https://anchuselva.github.io/Anchuga/) &nbsp; | &nbsp; **[ADD REPOSITORY URL]**
+approach:
+  design: "clear and user-centred"
+  development: "structured and practical"
+  mindset: "curious, responsible and always learning"
+```
 
 <br />
 
-## 04 / Current focus
+## `$ cat current-focus.log`
 
-| Now | Next |
+```text
+[ACTIVE]  Building responsive and accessible web applications
+[ACTIVE]  Improving backend and database development
+[LEARN]   Cloud deployment and CI/CD workflows
+[GROW]    UI/UX research and interface design
+[EXPLORE] Responsible AI-assisted software development
+```
+
+<br />
+
+## `$ ls ./technologies`
+
+| Directory | Stack |
 |:--|:--|
-| Building responsive, accessible web experiences | Designing stronger full-stack system architecture |
-| Improving backend and database development | Deploying dependable applications in the cloud |
-| Strengthening UI/UX design decisions | Integrating CI/CD into development workflows |
-| Using AI tools thoughtfully during development | Exploring responsible AI-enabled product features |
+| `languages/` | <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python and Java" /> |
+| `frontend/` | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS and Bootstrap" /> |
+| `backend/` | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="Node.js, Express.js, FastAPI and PHP" /> |
+| `databases/` | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" /> |
+| `design/` | <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp; <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" /> |
+| `tooling/` | <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,docker,azure,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, WordPress, Docker, Microsoft Azure and Postman" /> |
 
 <br />
 
-## 05 / GitHub statistics
+## `$ tree ./featured-projects`
 
-<!-- Statistics are provided by third-party open-source services. If a card is temporarily unavailable, visit the linked GitHub profile for the source activity. -->
+```text
+featured-projects/
+|
+|-- project-team-management/
+|   |-- type: role-based collaboration platform
+|   `-- stack: Next.js, Node.js, PostgreSQL, REST API, RBAC
+|
+|-- savelkr-budgeting/
+|   |-- type: personal finance and budgeting application
+|   `-- stack: React, Node.js, Database, AI-assisted features
+|
+|-- photography-studio-management/
+|   |-- type: studio operations and client management system
+|   `-- stack: React, Node.js, Express.js, MySQL
+|
+`-- personal-portfolio/
+    |-- type: responsive professional portfolio
+    `-- stack: Responsive Web Design, UI/UX, Frontend Development
+```
+
+### `01 / project-team-management`
+
+Role-based platform for managing projects, project leaders, team members, tasks, updates and collaboration.
+
+**Repository:** **[ADD REPOSITORY URL]**
+
+### `02 / savelkr-budgeting`
+
+Personal budgeting solution with category budgets, expense tracking, alerts, reports and intelligent financial features.
+
+**Repository:** **[ADD REPOSITORY URL]**
+
+### `03 / photography-studio-management`
+
+Full-stack solution for managing studio clients, profiles, bookings, histories and administrative operations.
+
+**Repository:** **[ADD REPOSITORY URL]**
+
+### `04 / personal-portfolio`
+
+Responsive personal portfolio presenting my skills, experience, services and projects.
+
+**Live:** [anchuselva.github.io/Anchuga](https://anchuselva.github.io/Anchuga/) &nbsp; | &nbsp; **[ADD REPOSITORY URL]**
+
+<br />
+
+## `$ git log --highlights`
+
+```diff
++ Junior Web Developer at Altitude1 under PrimeOne Global
++ UI/UX and frontend development experience
++ Full-stack academic and personal project experience
++ Interest in research, innovation and real-world computing solutions
+```
+
+<br />
+
+## `$ gh profile stats`
+
+<!-- Statistics are generated by third-party open-source services. If a card is temporarily unavailable, the linked GitHub profile remains the source of truth. -->
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anchuselva&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=cbd5e1&ring_color=6366f1&rank_icon=github" alt="Anchuga's GitHub overview statistics" />
@@ -150,9 +153,9 @@ A responsive portfolio presenting my background, skills, services and selected d
 
 <br />
 
-## 06 / GitHub contribution snake
+## `$ ./contribution-snake.sh`
 
-<!-- Generated daily by .github/workflows/snake.yml. This asset is available after the workflow completes successfully. -->
+<!-- Generated daily by .github/workflows/snake.yml. The asset appears after the workflow completes successfully. -->
 
 <div align="center">
   <picture>
@@ -164,27 +167,20 @@ A responsive portfolio presenting my background, skills, services and selected d
 
 <br />
 
-## 07 / Achievements and highlights
+```console
+anchuga@github:~$ echo $PHILOSOPHY
+Designing meaningful experiences and transforming ideas into working solutions.
 
-- Junior Web Developer at **Altitude1 under PrimeOne Global**
-- UI/UX and frontend development experience
-- Full-stack academic and personal project experience
-- Interest in research, innovation and practical computing solutions
-
-<br />
+anchuga@github:~$ status
+Build with purpose. Design with clarity. Keep learning.
+```
 
 <div align="center">
-
-<h3>Designing meaningful experiences and transforming ideas into working solutions.</h3>
-
-<sub>Build with purpose. Design with clarity. Keep learning.</sub>
-
-<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=anchuselva&label=PROFILE%20VIEWS&color=4f46e5&style=flat-square" alt="Anchuga's profile view count" />
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,35:312e81,65:172554,100:020617&height=70&section=footer" alt="Dark navy, blue and violet footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,35:312e81,65:172554,100:020617&height=65&section=footer" alt="Dark navy, blue and violet footer" />
 
 </div>
