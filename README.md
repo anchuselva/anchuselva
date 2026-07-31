@@ -23,6 +23,21 @@
   <img src="https://img.shields.io/badge/Junior_Web_Developer-0F172A?style=flat-square&logo=devdotto&logoColor=818CF8" alt="Junior Web Developer" />
 </p>
 
+<p>
+  <a href="#about-me"><strong>ABOUT</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#technology-stack"><strong>STACK</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#featured-projects"><strong>PROJECTS</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#github-statistics"><strong>ACTIVITY</strong></a>
+</p>
+
+</div>
+
+<div align="center">
+  <img width="100%" src="./assets/developer-workspace.png" alt="Dark professional developer workspace illustrating code, interface design, databases and cloud systems" />
+  <sub>A workspace built around thoughtful interfaces, connected systems and dependable delivery.</sub>
 </div>
 
 ---
@@ -44,6 +59,28 @@ I enjoy designing and developing practical digital products that are useful, cle
 - Learning cloud deployment and CI/CD workflows
 - Strengthening UI/UX research and interface design
 - Exploring responsible AI-assisted software development
+
+---
+
+<div align="center">
+
+## From Design to Deployment
+
+<p>My interests cover the complete product journey—from interface thinking to application architecture, data and cloud delivery.</p>
+
+<img width="100%" src="./assets/design-to-deployment.png" alt="Visual journey from UI and UX design through application architecture, databases and cloud deployment" />
+
+<p>
+  <strong>Discover &amp; Design</strong>
+  &nbsp; → &nbsp;
+  <strong>Build &amp; Integrate</strong>
+  &nbsp; → &nbsp;
+  <strong>Test &amp; Improve</strong>
+  &nbsp; → &nbsp;
+  <strong>Deploy &amp; Learn</strong>
+</p>
+
+</div>
 
 ---
 
