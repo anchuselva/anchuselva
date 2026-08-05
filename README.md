@@ -172,6 +172,30 @@ I enjoy designing and developing practical digital products that are useful, cle
 
 <div align="center">
 
+## Developer Analytics
+
+<p>A focused view of my public coding activity, collaboration and repository growth.</p>
+
+<!-- Generated daily by .github/workflows/metrics.yml using lowlighter/metrics. -->
+
+<img width="100%" src="./github-metrics.svg" alt="Anchuga Selvaratnam's GitHub activity, community and repository overview" />
+
+<br />
+
+<img width="100%" src="./metrics-languages.svg" alt="Programming languages used across Anchuga Selvaratnam's public repositories" />
+
+<details>
+<summary><strong>View repository growth analytics</strong></summary>
+<br />
+<img width="100%" src="./metrics-growth.svg" alt="Stargazer totals and repository growth charts for Anchuga Selvaratnam" />
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
 ## GitHub Statistics
 
 <p>An overview of my public development activity and language usage.</p>
