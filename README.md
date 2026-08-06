@@ -207,8 +207,6 @@ I enjoy designing and developing practical digital products that are useful, cle
 
 <img width="72%" src="https://streak-stats.demolab.com?user=anchuselva&theme=transparent&hide_border=true&background=0D1117&stroke=334155&ring=6366F1&fire=38BDF8&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Anchuga's GitHub contribution streak" />
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=anchuselva&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" alt="GitHub profile trophies based on Anchuga's public activity" />
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anchuselva&bg_color=0d1117&color=818cf8&line=38bdf8&point=f8fafc&area=true&area_color=312e81&hide_border=true" alt="Anchuga's recent GitHub contribution activity graph" />
 
 </div>
