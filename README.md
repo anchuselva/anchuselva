@@ -202,8 +202,8 @@ I enjoy designing and developing practical digital products that are useful, cle
 
 <!-- Statistics are provided by third-party open-source services and may occasionally be unavailable during maintenance. -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anchuselva&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=cbd5e1&ring_color=6366f1&rank_icon=github" alt="Anchuga's GitHub overview statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchuselva&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=cbd5e1" alt="Most-used languages across Anchuga's public repositories" />
+<img height="170" src="https://ghstats.dev/api/card?username=anchuselva&bg=0d1117&text=cbd5e1&title_color=818cf8&icon_color=38bdf8&hide_border=true" alt="Anchuga's GitHub overview statistics" />
+<img height="170" src="https://ghstats.dev/api/langs?username=anchuselva&layout=compact&max_langs=8&bg=0d1117&text=cbd5e1&title_color=818cf8&hide_border=true" alt="Most-used languages across Anchuga's public repositories" />
 
 <img width="72%" src="https://streak-stats.demolab.com?user=anchuselva&theme=transparent&hide_border=true&background=0D1117&stroke=334155&ring=6366F1&fire=38BDF8&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Anchuga's GitHub contribution streak" />
 
